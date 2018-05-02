@@ -7,7 +7,7 @@
 
 # 个人博客
 - [阮一峰的博客](http://www.ruanyifeng.com/blog/)
-- [张鑫旭的博客](http://www.ruanyifeng.com/blog/)
+- [张鑫旭的博客](http://www.zhangxinxu.com/wordpress/)
 
 # 好文推荐
 ## js
