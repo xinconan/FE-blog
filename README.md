@@ -8,11 +8,11 @@
 
 # 个人博客
 - [阮一峰的博客](http://www.ruanyifeng.com/blog/)
-- [张鑫旭的博客](http://www.zhangxinxu.com/wordpress/)
+- [张鑫旭的博客](https://www.zhangxinxu.com/wordpress/)
 
 # 好文推荐
 ## js
-
+- [GMTC 大前端时代前端监控的最佳实践](https://juejin.im/post/5b35921af265da598f1563cf)
 ### react
 
 ### vue
