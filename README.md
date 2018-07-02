@@ -31,6 +31,9 @@
 ## http & https
 - [分分钟让你理解HTTPS](https://juejin.im/post/5ad6ad575188255c272273c4)
 
+## web综合
+- [前端常见跨域解决方案](https://segmentfault.com/a/1190000011145364)
+
 # 在线工具
 ## 图片处理
 - [tinypng，很好用的在线压缩png和jpg](https://tinypng.com/)
