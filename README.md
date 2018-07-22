@@ -33,6 +33,7 @@
 
 ## web综合
 - [前端常见跨域解决方案](https://segmentfault.com/a/1190000011145364)
+- [深入浅出Webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
 # 在线工具
 ## 图片处理
