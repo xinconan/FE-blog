@@ -24,6 +24,7 @@
 ### angular
 
 ## css
+- [[译]理解伪元素:before和:after](https://www.jianshu.com/p/cc14b72c870e)
 
 ## html
 
