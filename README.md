@@ -18,6 +18,7 @@
 - [图解ES6中的React生命周期](https://juejin.im/post/5a062fb551882535cd4a4ce3)
 - [React V16.3生命周期](https://segmentfault.com/a/1190000014637616)
 - [从设计师的角度看 Redux](https://juejin.im/post/5b45aaa35188251b157b9b1b)
+- [[译] 组件、Prop 和 State](https://zhuanlan.zhihu.com/p/41398296)
 
 ### vue
 
