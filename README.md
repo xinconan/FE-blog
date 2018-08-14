@@ -14,6 +14,8 @@
 ## js
 - [GMTC 大前端时代前端监控的最佳实践](https://juejin.im/post/5b35921af265da598f1563cf)
 - [通过Ajax方式上传文件(input file)，使用FormData进行Ajax请求](https://www.cnblogs.com/LoveTX/p/7081515.html)
+- [原来浏览器原生支持JS Base64编码解码](https://www.zhangxinxu.com/wordpress/?p=7899)
+
 ### react
 - [图解ES6中的React生命周期](https://juejin.im/post/5a062fb551882535cd4a4ce3)
 - [React V16.3生命周期](https://segmentfault.com/a/1190000014637616)
