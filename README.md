@@ -42,6 +42,12 @@
 - [前端常见跨域解决方案](https://segmentfault.com/a/1190000011145364)
 - [深入浅出Webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
+## 面试题系列
+- [前端面试系统准备](https://juejin.im/post/5b596652f265da0f9402b3ef) 主要是mooc的笔记
+- [前端笔试&面试爬坑系列---算法](https://juejin.im/post/5b72f0caf265da282809f3b5)
+- [面试图谱](https://yuchengkai.cn/docs/zh/frontend/)
+
+
 ## 在线工具
 ### 图片处理
 - [tinypng，很好用的在线压缩png和jpg](https://tinypng.com/)
