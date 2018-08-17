@@ -1,0 +1,30 @@
+{
+  "name": "fe-blog",
+  "version": "1.0.0",
+  "description": "my collect articles for FE",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "deploy": "sh deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinconan/FE-blog.git"
+  },
+  "keywords": [
+    "fe",
+    "blog"
+  ],
+  "author": "xinconan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xinconan/FE-blog/issues"
+  },
+  "homepage": "https://github.com/xinconan/FE-blog#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.2"
+  }
+}
