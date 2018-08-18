@@ -12,6 +12,7 @@
 
 
 ## js
+- [30 seconds of code中文版](http://caibaojian.com/30-seconds-of-code.html)
 - [GMTC 大前端时代前端监控的最佳实践](https://juejin.im/post/5b35921af265da598f1563cf)
 - [通过Ajax方式上传文件(input file)，使用FormData进行Ajax请求](https://www.cnblogs.com/LoveTX/p/7081515.html)
 - [原来浏览器原生支持JS Base64编码解码](https://www.zhangxinxu.com/wordpress/?p=7899)
@@ -27,6 +28,7 @@
 ## angular
 
 ## css
+- [30秒 CSS 中文版](http://caibaojian.com/30-seconds-of-css/)
 - [[译]理解伪元素:before和:after](https://www.jianshu.com/p/cc14b72c870e)
 - [如何更愉快地使用em](http://wuyuying.com/blog/archives/css-in-depth-relative-units/)
 - [如何更愉快地使用rem](http://wuyuying.com/blog/archives/css-in-depth-stop-thinking-in-px/)
