@@ -60,3 +60,5 @@
 - [Pro Git,2nd](https://git-scm.com/book/zh/v2)
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 - [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
+- [深度学习](https://github.com/exacity/deeplearningbook-chinese)
+  
