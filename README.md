@@ -43,6 +43,7 @@
 ## web综合
 - [前端常见跨域解决方案](https://segmentfault.com/a/1190000011145364)
 - [深入浅出Webpack](https://github.com/gwuhaolin/dive-into-webpack)
+- [一文读懂前端缓存](https://github.com/easonyq/easonyq.github.io/blob/master/学习记录/others/cache.md)
 
 ## 面试题系列
 - [前端面试系统准备](https://juejin.im/post/5b596652f265da0f9402b3ef) 主要是mooc的笔记
