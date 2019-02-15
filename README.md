@@ -53,6 +53,7 @@
 - [前端笔试&面试爬坑系列---算法](https://juejin.im/post/5b72f0caf265da282809f3b5)
 - [面试图谱](https://yuchengkai.cn/docs/zh/frontend/)
 - [FEGuide](https://github.com/nanhupatar/FEGuide)
+- [中高级前端大厂面试秘籍(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
 
 
 ## 在线工具
