@@ -30,6 +30,7 @@
 ## angular
 
 ## css
+- [link rel=alternate网站换肤功能最佳实现](https://www.zhangxinxu.com/wordpress/2019/02/link-rel-alternate-website-skin/)
 - [CSS border-radius 能做什么](https://www.w3cplus.com/css/css-border-radius-can-do-that.html)
 - [30秒 CSS 中文版](http://caibaojian.com/30-seconds-of-css/)
 - [[译]理解伪元素:before和:after](https://www.jianshu.com/p/cc14b72c870e)
