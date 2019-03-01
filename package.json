@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/xinconan/FE-blog#readme",
   "devDependencies": {
-    "vuepress": "^0.14.2"
+    "vuepress": "^0.14.9"
   }
 }

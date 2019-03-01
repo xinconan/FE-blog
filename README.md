@@ -36,6 +36,8 @@
 - [[译]理解伪元素:before和:after](https://www.jianshu.com/p/cc14b72c870e)
 - [如何更愉快地使用em](http://wuyuying.com/blog/archives/css-in-depth-relative-units/)
 - [如何更愉快地使用rem](http://wuyuying.com/blog/archives/css-in-depth-stop-thinking-in-px/)
+- [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+- [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
 
 ## html
 
