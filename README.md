@@ -19,6 +19,7 @@
 - [原来浏览器原生支持JS Base64编码解码](https://www.zhangxinxu.com/wordpress/?p=7899)
 
 ## react
+- [关于React Hooks，你不得不知的事](https://juejin.im/post/5c7e2f1951882547021c576f)
 - [图解ES6中的React生命周期](https://juejin.im/post/5a062fb551882535cd4a4ce3)
 - [React V16.3生命周期](https://segmentfault.com/a/1190000014637616)
 - [从设计师的角度看 Redux](https://juejin.im/post/5b45aaa35188251b157b9b1b)
@@ -51,6 +52,7 @@
 - [深入浅出Webpack](https://github.com/gwuhaolin/dive-into-webpack)
 - [一文读懂前端缓存](https://github.com/easonyq/easonyq.github.io/blob/master/学习记录/others/cache.md)
 - [浏览器EventLoop](https://zhuanlan.zhihu.com/p/45111890)
+- [如何在 Web 关闭页面时发送 Ajax 请求](https://juejin.im/post/5c7e541b6fb9a049e06415a5)
 
 ## 面试题系列
 - [前端面试系统准备](https://juejin.im/post/5b596652f265da0f9402b3ef) 主要是mooc的笔记
