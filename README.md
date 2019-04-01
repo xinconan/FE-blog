@@ -41,6 +41,8 @@
 - [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
 
 ## html
+- [html5录音功能实战](https://juejin.im/post/5c9826ac5188256d5328b9f6)
+- [浅析 HTML5 中的 download 属性](https://zhuanlan.zhihu.com/p/58888918)
 
 ## Node.js
 
