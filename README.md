@@ -27,6 +27,7 @@
 
 ## vue
 - [「从源码中学习」Vue源码中的JS骚操作](https://juejin.im/post/5c73554cf265da2de33f2a32)
+- [Vue.js 源码解析](https://github.com/answershuto/learnVue)
 
 ## angular
 
@@ -43,6 +44,9 @@
 ## html
 - [html5录音功能实战](https://juejin.im/post/5c9826ac5188256d5328b9f6)
 - [浅析 HTML5 中的 download 属性](https://zhuanlan.zhihu.com/p/58888918)
+
+## 移动端调试工具
+- [eruda](https://github.com/liriliri/eruda)
 
 ## Node.js
 
@@ -69,6 +73,10 @@
 - [css转base64](https://www.css-js.com/tools/base64.html)
 - [创建漂亮的代码分享图片](https://dawnlabs.io/carbon)
 
+
+## 可视化
+- [d3中文API](https://d3js.org.cn/)
+- [d3.v4-API-zh](https://github.com/tianxuzhang/d3.v4-API-Translation)
 
 ## Books
 - [Pro Git,2nd](https://git-scm.com/book/zh/v2)
