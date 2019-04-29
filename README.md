@@ -13,6 +13,7 @@
 
 
 ## js
+- [[译] 图解 Map、Reduce 和 Filter 数组方法](https://juejin.im/post/5caf030d6fb9a068736d2d7c)
 - [30 seconds of code中文版](http://caibaojian.com/30-seconds-of-code.html)
 - [GMTC 大前端时代前端监控的最佳实践](https://juejin.im/post/5b35921af265da598f1563cf)
 - [通过Ajax方式上传文件(input file)，使用FormData进行Ajax请求](https://www.cnblogs.com/LoveTX/p/7081515.html)
@@ -28,10 +29,12 @@
 ## vue
 - [「从源码中学习」Vue源码中的JS骚操作](https://juejin.im/post/5c73554cf265da2de33f2a32)
 - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
+- [this.$toast() 了解一下？](https://juejin.im/post/5ca20e426fb9a05e42555d1d)
 
 ## angular
 
 ## css
+- [CSS实现文字下面波浪线动画效果](https://www.zhangxinxu.com/wordpress/2019/04/css-wave-wavy-animation/)
 - [link rel=alternate网站换肤功能最佳实现](https://www.zhangxinxu.com/wordpress/2019/02/link-rel-alternate-website-skin/)
 - [CSS border-radius 能做什么](https://www.w3cplus.com/css/css-border-radius-can-do-that.html)
 - [30秒 CSS 中文版](http://caibaojian.com/30-seconds-of-css/)
@@ -52,6 +55,7 @@
 
 ## http & https
 - [分分钟让你理解HTTPS](https://juejin.im/post/5ad6ad575188255c272273c4)
+- [可能是最被误用的 HTTP 响应头之一 Cache-Control: must-revalidate](https://zhuanlan.zhihu.com/p/60357719)
 
 ## web综合
 - [前端常见跨域解决方案](https://segmentfault.com/a/1190000011145364)
