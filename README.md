@@ -30,6 +30,7 @@
 - [「从源码中学习」Vue源码中的JS骚操作](https://juejin.im/post/5c73554cf265da2de33f2a32)
 - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
 - [this.$toast() 了解一下？](https://juejin.im/post/5ca20e426fb9a05e42555d1d)
+- [vue单元测试](https://holylovelqq.github.io/vue/VueUnitTest.html)
 
 ## angular
 
@@ -47,6 +48,7 @@
 ## html
 - [html5录音功能实战](https://juejin.im/post/5c9826ac5188256d5328b9f6)
 - [浅析 HTML5 中的 download 属性](https://zhuanlan.zhihu.com/p/58888918)
+- [你从未注意的隐藏危险: target = "_blank" 和 "opener"](https://zhuanlan.zhihu.com/p/53132574)
 
 ## 移动端调试工具
 - [eruda](https://github.com/liriliri/eruda)
@@ -83,6 +85,8 @@
 - [d3.v4-API-zh](https://github.com/tianxuzhang/d3.v4-API-Translation)
 
 ## Books
+- [动手学深度学习](https://github.com/d2l-ai/d2l-zh)
+- [2019前端工程师手册](https://github.com/FrontendMasters/front-end-handbook-2019)
 - [Pro Git,2nd](https://git-scm.com/book/zh/v2)
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 - [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
