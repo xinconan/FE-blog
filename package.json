@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/xinconan/FE-blog/issues"
   },
-  "homepage": "https://github.com/xinconan/FE-blog#readme",
+  "homepage": "https://xinconan.github.io/FE-blog",
   "devDependencies": {
     "vuepress": "^0.14.9"
   }
