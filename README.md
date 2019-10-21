@@ -18,6 +18,7 @@
 - [GMTC 大前端时代前端监控的最佳实践](https://juejin.im/post/5b35921af265da598f1563cf)
 - [通过Ajax方式上传文件(input file)，使用FormData进行Ajax请求](https://www.cnblogs.com/LoveTX/p/7081515.html)
 - [原来浏览器原生支持JS Base64编码解码](https://www.zhangxinxu.com/wordpress/?p=7899)
+- [每一位JSer都应当掌握的注释标记](https://juejin.im/post/5d1102686fb9a07ec07fcc20)
 
 ## react
 - [关于React Hooks，你不得不知的事](https://juejin.im/post/5c7e2f1951882547021c576f)
@@ -93,4 +94,5 @@
 - [深度学习](https://github.com/exacity/deeplearningbook-chinese)
 - [React源码解析](https://react.jokcy.me/)
 - [wepack surviveJS中文版](https://lvzhenbang.github.io/webpack-book/)
-  
+- [Flutter实战](https://github.com/flutterchina/flutter-in-action)
+- [lodash源码分析](https://yeyuqiudeng.gitbooks.io/pocket-lodash/)
